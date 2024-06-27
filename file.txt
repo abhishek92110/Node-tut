@@ -1,0 +1,6 @@
+this is newly created file
+
+
+npm prune ---- This command removes unnecessary packages.
+
+npm dedupe ----- This command reduces the dependency tree by removing duplicate packages.
